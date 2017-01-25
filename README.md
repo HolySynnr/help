@@ -10,8 +10,12 @@ and ask there!
 
 [note] When inserting you're code:
 
+<<<<<<< HEAD
+[Please click here](https://github.com/nodejs/help/issues/new) to create a new issue if you have any questions.
+=======
 use 3 backticks, followed by `js`: As seen below  
 ![node-js](assets/backtick.png)
+>>>>>>> refs/remotes/nodejs/master
 
 <blockquote>```js<br>
 console.log('happy coding!')<br>
