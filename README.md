@@ -31,5 +31,10 @@ this repository, you can try:
 * [Freenode #node.js channel](https://webchat.freenode.net/?channels=node.js&uio=d4)
 * [Gitter Node.js room](https://gitter.im/nodejs/node)
 
+<<<<<<< HEAD
 ## Participation
+=======
+## Help Team Members
+
+>>>>>>> parent of ac80bee... Revert "Changed WG to Team"
 Want to help others with issues? You can start simply, by answering open questions.
